@@ -107,11 +107,14 @@
 
 <hr>
 
-## 🕒 My Coding Activity
+## 🕒 Coding Activity
 
 <p align="center">
   <a href="https://wakatime.com/@Carlos23Andres">
-    <img src="https://wakatime.com/badge/user/8626a060-2926-4af6-b129-4485f1df657f.svg" alt="Total Coding Time">
+    <img src="https://wakatime.com/badge/user/8626a060-2926-4af6-b129-4485f1df657f.svg" alt="Total coding time">
   </a>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Carlos23Andres&layout=compact&theme=radical" width="60%">
 </p>
+
+<hr>
+
