@@ -1,7 +1,7 @@
 name: Update WakaTime Stats
 on:
   schedule:
-    - cron: '0 12 * * *'  # Actualiza diario a las 7AM COT
+    - cron: '0 12 * * *'  # 7AM COT
   workflow_dispatch:
 jobs:
   update:
