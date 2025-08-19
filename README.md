@@ -22,7 +22,7 @@
        alt="Most used programming languages" width="48%"/>
 </p>
 
-🔧 Programming Languages Percentage Distribution
+## 🔧 Programming Languages Percentage Distribution
 
 <p align="center">
   <!-- Python -->
